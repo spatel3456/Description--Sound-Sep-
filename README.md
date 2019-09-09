@@ -1,4 +1,5 @@
 # Description--Sound-Sep-
+This is a "public" set repository with only the description of the acutal "Sound Sep" repository, which is set "private".
 
 The repository is the main dump for all the code/side projects I worked on while on a Research Internship at Indian Institute of Technology-GN. 
 
